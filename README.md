@@ -1,7 +1,12 @@
 <h1 align="center">Hi 👋, I'm Amrutha</h1>
 <h3 align="center">Third-Year Undergraduate in Computer Science and Engineering (Artificial Intelligence and Machine Learning)</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amruthapariprolu" alt="amruthapariprolu" /></a> </p>
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=amruthapariprolu&row=1&column=7&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&exclude_achievements=Followers,Reviews" alt="amruthapariprolu" />
+  </a>
+</p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
