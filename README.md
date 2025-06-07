@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Amrutha</h1>
-<h3 align="center">Third-Year Undergraduate in Computer Science and Engineering (Artificial Intelligence and Machine Learning)</h3>
+<h3 align="center">Final-Year Undergraduate in Computer Science and Engineering (Artificial Intelligence and Machine Learning)</h3>
 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
