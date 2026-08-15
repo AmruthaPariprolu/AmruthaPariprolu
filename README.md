@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Amrutha Pariprolu</h1>
 
 <h3 align="center">
-Software Engineer I at Viasat | Graduate in Artificial Intelligence & Machine Learning from Jawaharlal Nehru Technological University Hyderabad (JNTUH).
+Software Engineer I at Viasat 
+  <br>
+Graduate in Artificial Intelligence & Machine Learning from Jawaharlal Nehru Technological University Hyderabad (JNTUH).
 </h3>
 
 
