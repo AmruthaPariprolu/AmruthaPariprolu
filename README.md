@@ -5,10 +5,6 @@ Software Engineer I at Viasat | Graduate in Artificial Intelligence & Machine Le
 </h3>
 
 
-<p align="center">
-💡 Passionate about Full Stack Development, AI/ML, and Problem Solving  
-🚀 Loves building real-world applications and learning scalable systems
-</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/amruthapariprolu" target="_blank">
