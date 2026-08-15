@@ -44,8 +44,9 @@ Hyderabad, India
 
 ### 🏆 Achievements
 
-* **Top 2% Contributor – GSSoC'24**
-* **Amazon ML Summer School Mentee**
+
+* **Amazon ML Summer School Mentee'25**
+* * **Top 2% Contributor – GSSoC'24**
 * **Core Team Member of Coding Club JNTUH'25**
 
 ---
