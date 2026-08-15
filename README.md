@@ -9,7 +9,7 @@ Graduate in Artificial Intelligence & Machine Learning from Jawaharlal Nehru Tec
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sivani-immidi-0595ab257/" target="_blank">
+  <a href="https://www.linkedin.com/in/amruthapariprolu" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
  
@@ -47,8 +47,8 @@ Graduate in Artificial Intelligence & Machine Learning from Jawaharlal Nehru Tec
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=immidisivani&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=immidisivani&layout=compact&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AmruthaPariprolu&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AmruthaPariprolu&layout=compact&theme=tokyonight" height="165"/>
 </p>
 
 ---
@@ -58,4 +58,4 @@ Graduate in Artificial Intelligence & Machine Learning from Jawaharlal Nehru Tec
 
 ### 📫 Contact Me
 
-- 🔗 LinkedIn: [Sivani Immidi](https://www.linkedin.com/in/sivani-immidi-0595ab257/)
+- 🔗 LinkedIn: [Amrutha Pariprolu](https://www.linkedin.com/in/amruthapariprolu)
